@@ -23,6 +23,8 @@ Install
 
 Legal
   For authorized security testing only. Respect laws and target policies.
+
+Author: Willy Weiss
 """
 from __future__ import annotations
 
@@ -567,3 +569,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
